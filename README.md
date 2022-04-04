@@ -14,7 +14,7 @@ Part 1:
 - Pending - Scrape the remaining 11,500 words with adequate delays to avoid pestering the leo.org servers
 
 Part 2 IN WORK:
-- Develop flashcard app for iOS using spaced repetition
+- IN WORK - Develop flashcard app for iOS using spaced repetition
 - Test app with first 500 words
 - Send to others for beta testing and feedback
 - Implement changes/updates
